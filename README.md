@@ -1,1 +1,1 @@
-Java Development Programming in CODSOFT Internship
+Java Development Programming for CODSOFT Internship
